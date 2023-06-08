@@ -1,3 +1,7 @@
 this is my second lecture of the git and the github 
 
+<<<<<<< HEAD
 this is the chapter one of  the sory one 
+=======
+this is the chapter 1 and the having branch aline 
+>>>>>>> alien
