@@ -1,2 +1,3 @@
 this is my second lecture of the git and the github 
 
+this is the chapter 1 and the having branch aline 
